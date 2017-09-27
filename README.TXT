@@ -1,5 +1,3 @@
-MASTER - version - readme.txt
-
 Project: clock-display
 Authors: David Barnes and Michael Kölling
 
